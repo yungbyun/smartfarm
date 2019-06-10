@@ -7,8 +7,8 @@ http://vctec.co.kr/product/%EC%A0%95%EC%A0%84%EC%8B%9D-%ED%86%A0%EC%96%91-%EC%8A
 * 아래로 갔을 때 문서 | Product Wiki 클릭함
 
 ## 온도습도센서
-https://www.icbanq.com/P005607911
-
+https://www.icbanq.com/P005607911 <br/>
+검정:그라운드, 빨간색: 5V, 초록:D2, 희색: 3D
 
 
 
