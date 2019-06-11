@@ -12,5 +12,5 @@ https://www.icbanq.com/P005607911 <br/>
 * 검정:그라운드, 빨간색: 5V, 초록:D2, 희색: 3D
 
 ## 센서데이터 10만건
-sensor_data_by_faisal.csv collected by Mr. Faisal
+* sensor_data_by_faisal.csv collected by Mr. Faisal
 
