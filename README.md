@@ -14,3 +14,5 @@ https://www.icbanq.com/P005607911 <br/>
 ## 센서데이터 10만건
 * sensor_data_by_faisal.csv collected by Mr. Faisal
 
+## 센서데이터를 이용한 머신러닝(kaggle.com)
+* https://www.kaggle.com/yungbyun/sensor-data-analysis/
