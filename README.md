@@ -16,3 +16,6 @@ https://www.icbanq.com/P005607911 <br/>
 
 ## 센서데이터를 이용한 머신러닝(kaggle.com)
 * https://www.kaggle.com/yungbyun/sensor-data-analysis/
+
+## 붓꽃 인식 커널 (Kaggle.com)
+* https://www.kaggle.com/yungbyun/ml-from-scratch-with-iris-k
